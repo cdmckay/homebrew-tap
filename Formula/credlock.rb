@@ -1,8 +1,8 @@
 class Credlock < Formula
   desc "Hand secrets to one command at a time, after you see what is asked and why"
   homepage "https://github.com/cdmckay/credlock"
-  url "https://github.com/cdmckay/credlock/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "f14921796c420e7d6e68cfc318c3d2e0549d64a2a4da8348d0f0b242abc74dda"
+  url "https://github.com/cdmckay/credlock/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "d8c91044124371e7f95f6751f010e16daf504fd646eb3f1836ad24b727e4c4af"
   license "GPL-3.0-or-later"
   head "https://github.com/cdmckay/credlock.git", branch: "main"
 
